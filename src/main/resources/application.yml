@@ -1,0 +1,5 @@
+logging:
+  level:
+    ROOT: trace
+server:
+  port: 8080
